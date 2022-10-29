@@ -3,6 +3,7 @@ import { Button } from '@chakra-ui/react';
 
 
 import styles from "../styles/navbar.module.css";
+import MobNav from './MobNav';
 
 
 const Navbar = () => {
@@ -28,7 +29,11 @@ const Navbar = () => {
        <div >       <a href="https://drive.google.com/file/d/1fQTXut_2hizUKcab-jPZx_NBdJWZFHZh/view?usp=share_link"><Button style={{backgroundColor:"#3f6ff5",color:"white" }} >Resume</Button></a></div>
       
 
-      
+
+        </div>
+
+        <div className={styles.moba}>
+          <MobNav/>
         </div>
 
       

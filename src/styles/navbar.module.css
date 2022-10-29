@@ -118,6 +118,11 @@ text-align: center;
   margin-left: 8rem;
 }
 
+.moba{
+  margin-top: 0.9rem;
+  margin-left: 3rem;
+  
+}
 @media screen and (min-width: 200px) and (max-width: 700px) {
   .navin {
     display: none;
@@ -130,6 +135,7 @@ text-align: center;
     font-weight: 500;
     margin-left: -0.5rem;
   }
+ 
 }
 
 
@@ -167,6 +173,7 @@ font-weight: 500; */
     font-size: 19px;
     font-weight: 500;
   }
+
 }
 
 
