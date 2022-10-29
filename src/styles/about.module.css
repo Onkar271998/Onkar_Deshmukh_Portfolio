@@ -1,0 +1,130 @@
+.title{
+    font-size: 28px;
+    color: #4070f4;
+    font-weight: 700;
+    margin-bottom: 3.5rem;
+    text-align: left;
+    
+}
+
+ 
+
+.container {
+    width: 100%;
+    padding-right: 1rem;
+    padding-left: 1rem;
+    margin-right: auto;
+    margin-left: auto;
+    margin-bottom: 2rem;
+    box-sizing: border-box;
+    padding: 0 200px;
+   
+  }
+
+
+  .innerdiv{
+    /* width: 60%; */
+    margin: auto;
+    text-align: left;
+    box-sizing: border-box;
+  }
+
+  .innername{
+    font-size: 20px;
+    box-sizing: border-box;
+  }
+  .innerdiv > li {
+    font-size: 17px;
+    box-sizing: border-box;
+  }
+
+
+
+  @media screen and (max-width: 1300px) {
+    .container {
+      width: 100%;
+      padding-right: 1rem;
+      padding-left: 1rem;
+      margin-right: auto;
+      margin-left: auto;
+      margin-bottom: 2rem;
+      box-sizing: border-box;
+      padding: 0 100px;
+     
+    }
+
+    .title{
+      font-size: 28px;
+      color: #4070f4;
+      font-weight: 700;
+      margin-bottom: 3.5rem;
+      text-align: left;
+      box-sizing: border-box;
+  }
+    
+  }
+  
+  @media screen and (max-width: 1100px) {
+
+    .title{
+      font-size: 28px;
+      color: #4070f4;
+      font-weight: 700;
+      margin-bottom: 3.5rem;
+      text-align: left;
+      box-sizing: border-box;
+  }
+
+  .container {
+    width: 100%;
+    padding-right: 1rem;
+    padding-left: 1rem;
+    margin-right: auto;
+    margin-left: auto;
+    margin-bottom: 2rem;
+    box-sizing: border-box;
+    padding: 0 200px;
+    box-sizing: border-box;
+  }
+   
+  }
+  
+  @media screen and (max-width: 900px) {
+    .container {
+      width: 100%;
+      padding-right: 1rem;
+      padding-left: 1rem;
+      margin-right: auto;
+      margin-left: auto;
+      margin-bottom: 2rem;
+      box-sizing: border-box;
+      /* padding: 0 200px; */
+     
+    }
+  }
+  
+  @media screen and (min-width:200px) and (max-width: 700px) {
+    .container {
+      width: 100%;
+      padding-right: 1rem;
+      padding-left: 1rem;
+      margin-right: auto;
+      margin-left: auto;
+      margin-bottom: 2rem;
+      box-sizing: border-box;
+      /* padding: 0 50px; */
+     
+    }
+
+    .title{
+      font-size: 28px;
+      color: #4070f4;
+      font-weight: 700;
+      margin-bottom: 3.5rem;
+      text-align: left;
+      box-sizing: border-box;
+  }
+  
+    
+  }
+  

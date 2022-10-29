@@ -1,0 +1,173 @@
+/* .container{
+    display: flex;
+    width: 100%;
+padding: 40px 250px;
+box-sizing: border-box;
+
+font-size: 19px;
+font-weight: 500;
+}
+
+
+.navin{
+    display: flex;
+  width: 60%;
+  justify-content: space-evenly;
+  margin-left: 100px;
+  margin-bottom: 15%;
+  text-align: center;
+
+  
+  
+
+}
+.navin :hover {
+  cursor: pointer;
+}
+
+
+
+
+@media screen and (max-width: 1300px) {
+ 
+  .navin{
+    display: flex;
+  width: 60%;
+  justify-content: space-evenly;
+  margin-left: 100px;
+  margin-bottom: 15%;
+  text-align: center;
+
+  
+  
+
+}
+  
+}
+
+@media screen and (max-width: 1100px) {
+ 
+}
+
+@media screen and (max-width: 900px) {
+  .navin{
+    display: none;
+    
+    
+    
+    
+    }
+
+}
+
+@media screen and (min-width:200px) and (max-width: 700px) {
+  
+  .navin{
+    display: none;
+    
+    
+    
+    
+    }
+    .myname{
+      width: 200px;
+      margin-left: -200px;
+    
+    }
+ 
+}
+ */
+
+
+ .container{
+  display: flex;
+  margin-top: 2rem;
+  font-size: 19px;
+  font-weight: 500;
+  /* width: 100%;
+padding: 40px 250px;
+box-sizing: border-box;
+
+font-size: 19px;
+font-weight: 500; */
+}
+
+
+
+.navin {
+  display: flex;
+width: 60%;
+justify-content: space-evenly;
+margin-left: 100px;
+
+text-align: center;
+}
+.navin>div{
+  margin-left: 1rem;
+}
+
+.navin :hover {
+  cursor: pointer;
+}
+
+.myname{
+  width: 200px;
+  /* margin-top: 2rem; */
+  font-size: 19px;
+  font-weight: 500;
+  margin-left: 8rem;
+}
+
+@media screen and (min-width: 200px) and (max-width: 700px) {
+  .navin {
+    display: none;
+  }
+
+  .myname{
+    width: 200px;
+    margin-top: 2rem;
+    font-size: 19px;
+    font-weight: 500;
+    margin-left: -0.5rem;
+  }
+}
+
+
+@media screen and (min-width: 700px) and (max-width: 900px) {
+.container{
+    display: flex;
+    margin-top: 2rem;
+    font-size: 19px;
+    font-weight: 500;
+    /* width: 100%;
+padding: 40px 250px;
+box-sizing: border-box;
+
+font-size: 19px;
+font-weight: 500; */
+}
+
+
+
+  .navin {
+    display: flex;
+  width: 60%;
+  justify-content: space-evenly;
+  margin-left: 100px;
+  margin-bottom: 15%;
+  text-align: center;
+  }
+  .navin>div{
+    margin-left: 1rem;
+  }
+
+  .myname{
+    width: 200px;
+    /* margin-top: 2rem; */
+    font-size: 19px;
+    font-weight: 500;
+  }
+}
+
+
+/* @media screen and (min-width: 900px) and (max-width: 1300px){ */

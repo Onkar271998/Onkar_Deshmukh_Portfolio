@@ -1,0 +1,169 @@
+.mern {
+    width: 180px;
+    margin-bottom: -20px;
+   
+  }
+  .profile {
+    width: 300px;
+    border-radius: 50%;
+    margin: auto;
+    box-sizing: border-box;
+    margin-top: 3rem;
+    margin-bottom: 20px;
+  }
+  .innerone {
+    margin: auto;
+    margin-top: 50px; 
+    display: block;
+  text-align: left;
+  margin-left: 15rem;
+
+  }
+  .container {
+    display: flex;
+
+    width: 80%;
+   
+    line-height: 4rem;
+  }
+  .head1 {
+    font-size: 31px;
+  }
+  .head2 {
+    font-size: 50px;
+  }
+  .head3 {
+    font-size: 25px;
+  }
+
+@media screen and (min-width: 200px) and (max-width: 700px) {
+  .mern {
+    width: 180px;
+    margin-bottom: -20px;
+   
+  }
+  .profile {
+    width: 300px;
+    border-radius: 50%;
+    margin: auto;
+    box-sizing: border-box;
+    margin-top: 3rem;
+    margin-bottom: 20px;
+  }
+  .innerone {
+    margin: auto;
+    margin-top: 50px; 
+    display: block;
+  text-align: left;
+  margin-left: 5rem;
+
+  }
+  .container {
+    display: block;
+
+    width: 100%;
+   
+    line-height: 4rem;
+  }
+  .head1 {
+    font-size: 25px;
+  }
+  .head2 {
+    font-size: 40px;
+    color: "#3f6ff5";
+  }
+  .head3 {
+    font-size: 22px;
+  }
+}
+
+/* @media screen and (max-width: 1300px) { */
+
+    @media screen and (min-width: 700px) and (max-width: 900px) {
+
+    .mern {
+        width: 180px;
+        margin-bottom: -20px;
+       
+      }
+      .profile {
+        width: 300px;
+        border-radius: 50%;
+        margin: auto;
+        box-sizing: border-box;
+        margin-top: 3rem;
+        margin-bottom: 20px;
+      }
+      .innerone {
+        margin: auto;
+        margin-top: 50px; 
+        display: block;
+      text-align: left;
+      margin-left: 5rem;
+    
+      }
+      .container {
+        display: flex;
+    
+        width: 100%;
+       
+        line-height: 4rem;
+      }
+      .head1 {
+        font-size: 25px;
+      }
+      .head2 {
+        font-size: 40px;
+       
+      }
+      .head3 {
+        font-size: 22px;
+      }
+
+}
+
+
+@media screen and (min-width: 900px) and (max-width: 1300px){
+    .mern {
+        width: 180px;
+        margin-bottom: -20px;
+       
+      }
+      .profile {
+        width: 300px;
+        border-radius: 50%;
+        margin: auto;
+        box-sizing: border-box;
+        margin-top: 3rem;
+        margin-bottom: 20px;
+      }
+      .innerone {
+        margin: auto;
+        margin-top: 50px; 
+        display: block;
+      text-align: left;
+      margin-left: 5rem;
+    
+      }
+      .container {
+        display: flex;
+    
+        width: 100%;
+       
+        line-height: 4rem;
+      }
+      .head1 {
+        font-size: 25px;
+      }
+      .head2 {
+        font-size: 40px;
+        
+        
+      }
+      .head3 {
+        font-size: 22px;
+      }
+}
+
+
+
