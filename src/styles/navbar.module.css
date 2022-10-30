@@ -84,6 +84,7 @@ font-weight: 500;
   margin-top: 2rem;
   font-size: 19px;
   font-weight: 500;
+  justify-content: space-between;
   /* width: 100%;
 padding: 40px 250px;
 box-sizing: border-box;

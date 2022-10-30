@@ -1,13 +1,4 @@
-.navbar {
-    display: flex;
-    align-items: center;
-  
-    width: 100%;
-    height: 55px;
-    font-weight: 600;
- 
-   
-  }
+
   
   
   .socialicon {
@@ -44,7 +35,9 @@
   @media all and (min-width: 200px) and (max-width: 480px){
     .btn1 {
       display: block;
-      margin-left: 30px;
+ margin-top: 1rem;
+ /* margin-left: 5rem; */
+
     }
     .navdata {
       display: none;
@@ -60,7 +53,9 @@
   @media all and (min-width: 480px) and (max-width: 750px) {
     .btn1 {
       display: block;
-      margin-left: 30px;
+      margin-top: 1rem;
+      /* margin-left: 5rem; */
+     
     }
     .navdata {
       display: none;
