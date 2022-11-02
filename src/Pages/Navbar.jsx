@@ -26,7 +26,7 @@ const Navbar = () => {
        <div  onClick={() => handleScroll("skills")}>Skills</div>
        <div  onClick={() => handleScroll("projects")}>Projects</div>
        <div   onClick={() => handleScroll("contact")}>Contact</div>
-       <div >       <a href="https://drive.google.com/file/d/1fQTXut_2hizUKcab-jPZx_NBdJWZFHZh/view?usp=share_link"><Button style={{backgroundColor:"#3f6ff5",color:"white" }} >Resume</Button></a></div>
+       <div >       <a href={require("../images/Onkar_Deshmukh_Resume__.pdf")} download={true}><Button style={{backgroundColor:"#3f6ff5",color:"white" }} >Resume</Button></a></div>
       
 
 

@@ -13,7 +13,7 @@ function Home() {
       <h1 className={styles.head3}>Full Stack Web Developer</h1> 
       
        <img src={require(`../images/mern.png`)} alt="c" className={styles.mern}/>
-      <a href="https://drive.google.com/file/d/1fQTXut_2hizUKcab-jPZx_NBdJWZFHZh/view?usp=share_link"><Button style={{backgroundColor:"#3f6ff5",color:"white" ,marginTop:"3rem"}} >Resume</Button></a>
+      <a href={require("../images/Onkar_Deshmukh_Resume__.pdf")} download={true}><Button style={{backgroundColor:"#3f6ff5",color:"white" ,marginTop:"3rem"}} >Resume</Button></a>
       </div> 
       <div className={styles.innertwo}> 
       <img src={require(`../images/me.png`)} alt="c" className={styles.profile}/> 
