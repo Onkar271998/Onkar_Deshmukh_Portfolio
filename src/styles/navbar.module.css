@@ -140,13 +140,15 @@ text-align: center;
 
   .myname{
     width: 200px;
-    margin-top: 2rem;
+    margin-top: -0.3rem;
     font-size: 19px;
     font-weight: 500;
     margin-left: -0.5rem;
   }
  .container{
   background-color: #fefefe;
+  position: fixed;
+ 
  }
 }
 
@@ -163,7 +165,8 @@ box-sizing: border-box;
 
 font-size: 19px;
 font-weight: 500; */
-background-color: #fefefe;
+/* background-color: #fefefe; */
+
 margin-top: -0.5rem;
 height: 60px;
 justify-content: center;
