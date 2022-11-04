@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Onkar_Deshmukh_Portfolio/static/css/main.edac7c27.css",
+    "main.css": "/Onkar_Deshmukh_Portfolio/static/css/main.f87eadd6.css",
     "main.js": "/Onkar_Deshmukh_Portfolio/static/js/main.f76bc869.js",
     "static/js/787.8d4efb73.chunk.js": "/Onkar_Deshmukh_Portfolio/static/js/787.8d4efb73.chunk.js",
     "static/media/n1.png": "/Onkar_Deshmukh_Portfolio/static/media/n1.64d51b09c7ff1f410c6a.png",
@@ -29,12 +29,12 @@
     "static/media/redux.png": "/Onkar_Deshmukh_Portfolio/static/media/redux.b3b939c66aecf7d53967.b3b939c66aecf7d53967.png",
     "static/media/html1.png": "/Onkar_Deshmukh_Portfolio/static/media/html1.ff3cf75e3b7cbb4ea77c.png",
     "index.html": "/Onkar_Deshmukh_Portfolio/index.html",
-    "main.edac7c27.css.map": "/Onkar_Deshmukh_Portfolio/static/css/main.edac7c27.css.map",
+    "main.f87eadd6.css.map": "/Onkar_Deshmukh_Portfolio/static/css/main.f87eadd6.css.map",
     "main.f76bc869.js.map": "/Onkar_Deshmukh_Portfolio/static/js/main.f76bc869.js.map",
     "787.8d4efb73.chunk.js.map": "/Onkar_Deshmukh_Portfolio/static/js/787.8d4efb73.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.edac7c27.css",
+    "static/css/main.f87eadd6.css",
     "static/js/main.f76bc869.js"
   ]
 }
