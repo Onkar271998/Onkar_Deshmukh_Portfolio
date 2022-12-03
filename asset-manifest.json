@@ -1,13 +1,12 @@
 {
   "files": {
     "main.css": "/Onkar_Deshmukh_Portfolio/static/css/main.f87eadd6.css",
-    "main.js": "/Onkar_Deshmukh_Portfolio/static/js/main.f76bc869.js",
+    "main.js": "/Onkar_Deshmukh_Portfolio/static/js/main.8c64c26c.js",
     "static/js/787.8d4efb73.chunk.js": "/Onkar_Deshmukh_Portfolio/static/js/787.8d4efb73.chunk.js",
-    "static/media/n1.png": "/Onkar_Deshmukh_Portfolio/static/media/n1.64d51b09c7ff1f410c6a.png",
     "static/media/me.png": "/Onkar_Deshmukh_Portfolio/static/media/me.fc688bbfd0c2b74aaa4d.png",
-    "static/media/n2.png": "/Onkar_Deshmukh_Portfolio/static/media/n2.503698d95c0dd847c537.png",
+    "static/media/n1.png": "/Onkar_Deshmukh_Portfolio/static/media/n1.efeb4b715a97ebcb2941.png",
     "static/media/e1.png": "/Onkar_Deshmukh_Portfolio/static/media/e1.6da163ff2e2127167ecb.png",
-    "static/media/n3.png": "/Onkar_Deshmukh_Portfolio/static/media/n3.88e31663ed7fbbab5169.png",
+    "static/media/n2.png": "/Onkar_Deshmukh_Portfolio/static/media/n2.5d4faa7e49b6a96108bf.png",
     "static/media/e3.png": "/Onkar_Deshmukh_Portfolio/static/media/e3.4f451280b3811c0e0f85.png",
     "static/media/e2.png": "/Onkar_Deshmukh_Portfolio/static/media/e2.2fa8e47b2e09cf6ce7d3.png",
     "static/media/Onkar_Deshmukh_Resume__.pdf": "/Onkar_Deshmukh_Portfolio/static/media/Onkar_Deshmukh_Resume__.ec1c350c406c598eeb65.pdf",
@@ -16,8 +15,8 @@
     "static/media/react.png": "/Onkar_Deshmukh_Portfolio/static/media/react.8a6fc0a24a800d1e0f4a.png",
     "static/media/indiegogo4.png": "/Onkar_Deshmukh_Portfolio/static/media/indiegogo4.25206dc23a50546d94f3.png",
     "static/media/indiegogo3.png": "/Onkar_Deshmukh_Portfolio/static/media/indiegogo3.a5d07cf9417071b91ef2.png",
+    "static/media/n3.png": "/Onkar_Deshmukh_Portfolio/static/media/n3.435b6f637c3b9d51b8f9.png",
     "static/media/mern.png": "/Onkar_Deshmukh_Portfolio/static/media/mern.61857440cbcbd022c461.png",
-    "static/media/abc.png": "/Onkar_Deshmukh_Portfolio/static/media/abc.6d4684d36d618b85afe2.png",
     "static/media/t1.png": "/Onkar_Deshmukh_Portfolio/static/media/t1.8a049d89d5f853c0e9e3.png",
     "static/media/t2.png": "/Onkar_Deshmukh_Portfolio/static/media/t2.8a049d89d5f853c0e9e3.png",
     "static/media/t3.png": "/Onkar_Deshmukh_Portfolio/static/media/t3.8a049d89d5f853c0e9e3.png",
@@ -30,11 +29,11 @@
     "static/media/html1.png": "/Onkar_Deshmukh_Portfolio/static/media/html1.ff3cf75e3b7cbb4ea77c.png",
     "index.html": "/Onkar_Deshmukh_Portfolio/index.html",
     "main.f87eadd6.css.map": "/Onkar_Deshmukh_Portfolio/static/css/main.f87eadd6.css.map",
-    "main.f76bc869.js.map": "/Onkar_Deshmukh_Portfolio/static/js/main.f76bc869.js.map",
+    "main.8c64c26c.js.map": "/Onkar_Deshmukh_Portfolio/static/js/main.8c64c26c.js.map",
     "787.8d4efb73.chunk.js.map": "/Onkar_Deshmukh_Portfolio/static/js/787.8d4efb73.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f87eadd6.css",
-    "static/js/main.f76bc869.js"
+    "static/js/main.8c64c26c.js"
   ]
 }
