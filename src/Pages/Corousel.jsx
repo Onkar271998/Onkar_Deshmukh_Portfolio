@@ -478,8 +478,7 @@ function Courosel() {
           <div className={styles.textdata}>
             <h3>Myhours.com</h3>
             <p>
-              It is crowdfunding websites that enable interaction between
-              fundraisers and the crowd.
+              It is yime tracking websites for projects in companies
             </p>
             <p>Tech Stack:- HTML,CSS,Javascript,React.js,Redux,Mongodb,Express,Chakra</p>
           </div>
