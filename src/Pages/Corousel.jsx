@@ -119,7 +119,7 @@ function Courosel() {
               </a>
               <a
                 target={"_blank"}
-                href="violent-hope.netlify.app/"
+                href="https://violent-hope.netlify.app/"
               >
                 <Button
                   _hover={{ background: "white", color: "teal.500" }}
