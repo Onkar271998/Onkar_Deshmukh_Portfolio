@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Onkar_Deshmukh_Portfolio/static/css/main.f87eadd6.css",
-    "main.js": "/Onkar_Deshmukh_Portfolio/static/js/main.d29fa055.js",
+    "main.css": "/Onkar_Deshmukh_Portfolio/static/css/main.9e6f63a2.css",
+    "main.js": "/Onkar_Deshmukh_Portfolio/static/js/main.5a137b66.js",
     "static/js/787.8d4efb73.chunk.js": "/Onkar_Deshmukh_Portfolio/static/js/787.8d4efb73.chunk.js",
     "static/media/me.png": "/Onkar_Deshmukh_Portfolio/static/media/me.fc688bbfd0c2b74aaa4d.png",
     "static/media/n1.png": "/Onkar_Deshmukh_Portfolio/static/media/n1.efeb4b715a97ebcb2941.png",
@@ -23,17 +23,19 @@
     "static/media/github.png": "/Onkar_Deshmukh_Portfolio/static/media/github.b1e14ce74d65a4300933.png",
     "static/media/mongo.jpg": "/Onkar_Deshmukh_Portfolio/static/media/mongo.7f8d1fa4014d58f7e782.jpg",
     "static/media/contactus.png": "/Onkar_Deshmukh_Portfolio/static/media/contactus.e5e30c8ce14b3f8fa8e1.png",
+    "static/media/node.png": "/Onkar_Deshmukh_Portfolio/static/media/node.c6649cb118c1ede849ad.png",
     "static/media/html.png": "/Onkar_Deshmukh_Portfolio/static/media/html.84de5dab5fab27f4161c.png",
+    "static/media/express.png": "/Onkar_Deshmukh_Portfolio/static/media/express.c0da3e38a430d20432f0.png",
     "static/media/js.jpeg": "/Onkar_Deshmukh_Portfolio/static/media/js.4cf889d0c7029602b15d.jpeg",
     "static/media/redux.png": "/Onkar_Deshmukh_Portfolio/static/media/redux.b3b939c66aecf7d53967.b3b939c66aecf7d53967.png",
     "static/media/html1.png": "/Onkar_Deshmukh_Portfolio/static/media/html1.ff3cf75e3b7cbb4ea77c.png",
     "index.html": "/Onkar_Deshmukh_Portfolio/index.html",
-    "main.f87eadd6.css.map": "/Onkar_Deshmukh_Portfolio/static/css/main.f87eadd6.css.map",
-    "main.d29fa055.js.map": "/Onkar_Deshmukh_Portfolio/static/js/main.d29fa055.js.map",
+    "main.9e6f63a2.css.map": "/Onkar_Deshmukh_Portfolio/static/css/main.9e6f63a2.css.map",
+    "main.5a137b66.js.map": "/Onkar_Deshmukh_Portfolio/static/js/main.5a137b66.js.map",
     "787.8d4efb73.chunk.js.map": "/Onkar_Deshmukh_Portfolio/static/js/787.8d4efb73.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f87eadd6.css",
-    "static/js/main.d29fa055.js"
+    "static/css/main.9e6f63a2.css",
+    "static/js/main.5a137b66.js"
   ]
 }
