@@ -1,62 +1,59 @@
 export const stackList = [
-    {
-      img: "https://raw.githubusercontent.com/gurupawar/website/main/src/Assets/skill/html5.svg",
-      name: "HTML",
-    },
-    {
-      img: "https://raw.githubusercontent.com/gurupawar/website/main/src/Assets/skill/css3.svg",
-      name: "CSS",
-    },
-    {
-      img: "https://raw.githubusercontent.com/gurupawar/website/main/src/Assets/skill/javascript.svg",
-      name: "JavaScript",
-    },
-    {
-      img: "https://raw.githubusercontent.com/gurupawar/website/main/src/Assets/skill/react.svg",
-      name: "ReactJS",
-    },
-    {
-      img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg",
-      name: "Redux",
-    },
-    {
-      img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg",
-      name: "NodeJS",
-    },
-    {
-      img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg",
-      name: "MongoDB",
-    },
-    {
-      img: "https://mdarshadkhan.vercel.app/static/media/mongoose.51275a00.png",
-      name: "Mongoose",
-    },
-    {
-      img: "https://cdn.icon-icons.com/icons2/2699/PNG/512/expressjs_logo_icon_169185.png",
-      name: "Express",
-    },
-    {
-      img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg",
-      name: "TypeScript",
-    },
-    {
-      img: "https://raw.githubusercontent.com/gurupawar/website/main/src/Assets/skill/bootstrap.svg",
-      name: "Bootstrap",
-    },
-    {
-      img: "https://pbs.twimg.com/profile_images/1244925541448286208/rzylUjaf_400x400.jpg",
-      name: "Chakra Ui",
-    },
-  
-    {
-      img: "https://raw.githubusercontent.com/gurupawar/website/main/src/Assets/skill/git.svg",
-      name: "Git",
-    },
-    {
-      img: "https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg",
-      name: "Postman",
-    },
-  ];
-  
-  
-  
+  {
+    img: "https://img.icons8.com/color/480/000000/html-5--v1.png",
+    name: "HTML",
+  },
+  {
+    img: "https://img.icons8.com/color/480/000000/css3.png",
+    name: "CSS",
+  },
+  {
+    img: "https://img.icons8.com/color/480/000000/javascript.png",
+    name: "JavaScript",
+  },
+  {
+    img: "https://img.icons8.com/color/480/000000/react-native.png",
+    name: "ReactJS",
+  },
+  {
+    img: "https://img.icons8.com/color/480/000000/redux.png",
+    name: "Redux",
+  },
+  {
+    img: "https://img.icons8.com/color/480/000000/nodejs.png",
+    name: "NodeJS",
+  },
+  {
+    img: "https://i.ibb.co/ZVh01dm/rsz-mong2.png",
+    name: "MongoDB",
+  },
+  {
+    img: "https://mdarshadkhan.vercel.app/static/media/mongoose.51275a00.png",
+    name: "Mongoose",
+  },
+  {
+    img: "https://cdn.icon-icons.com/icons2/2699/PNG/512/expressjs_logo_icon_169185.png",
+    name: "Express",
+  },
+  {
+    img: "https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_typescript_icon_130108.png",
+    name: "TypeScript",
+  },
+  {
+    img: "https://download.logo.wine/logo/Bootstrap_(front-end_framework)/Bootstrap_(front-end_framework)-Logo.wine.png",
+    name: "Bootstrap",
+  },
+  {
+    img: "https://pbs.twimg.com/profile_images/1244925541448286208/rzylUjaf_400x400.jpg",
+    name: "Chakra Ui",
+  },
+
+  {
+    img: "https://img.icons8.com/fluent/480/000000/github.png",
+    name: "Git",
+  },
+  {
+    img: "https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg",
+    name: "Postman",
+  },
+];
