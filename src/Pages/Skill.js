@@ -36,7 +36,7 @@ export const stackList = [
     name: "Express",
   },
   {
-    img: "https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_typescript_icon_130108.png",
+    img: "https://cdn-icons-png.flaticon.com/512/919/919832.png",
     name: "TypeScript",
   },
   {

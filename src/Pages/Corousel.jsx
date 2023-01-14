@@ -116,7 +116,7 @@ function Courosel() {
                   Source Code
                 </Button>
               </a>
-              <a target={"_blank"} href="https://violent-hope.netlify.app/">
+              <a target={"_blank"} href="https://violent-hope-ecomm.netlify.app/">
                 <Button
                   _hover={{ background: "white", color: "teal.500" }}
                   bg="#3f6ff5"
@@ -496,7 +496,7 @@ function Courosel() {
             </div>
           </Box>
           <div className={styles.footer1}>
-            <a target={"_blank"} href="https://violent-hope.netlify.app/">
+            <a target={"_blank"} href="https://violent-hope-ecomm.netlify.app/">
               <Button
                 bg="#3f6ff5"
                 _hover={{ background: "white", color: "teal.500" }}
@@ -506,7 +506,7 @@ function Courosel() {
                 Source Code
               </Button>
             </a>
-            <a target={"_blank"} href="https://violent-hope.netlify.app/">
+            <a target={"_blank"} href="https://violent-hope-ecomm.netlify.app/">
               <Button
                 _hover={{ background: "white", color: "teal.500" }}
                 bg="#3f6ff5"

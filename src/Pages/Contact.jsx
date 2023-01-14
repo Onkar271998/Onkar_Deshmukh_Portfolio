@@ -11,25 +11,25 @@ const Contact= () => {
       <div className={styles.contactMeContent}>
         <div className={styles.contactMeFirstSection}>
           <div>
-            <a href="mailto:Onkar271998@gmail.com">
+            <a href="mailto:Onkar271998@gmail.com"  target="_blank">
               <img src={require(`../images/download.png`)} alt="" />
               <h4>Onkar271998@gmail.com</h4>
             </a>
           </div>
           <div>
-            <a href="https://github.com/Onkar271998">
+            <a href="https://github.com/Onkar271998"  target="_blank">
               <img src={require(`../images/github.png`)} alt="" />
               <h4>@OnkarDeshmukh</h4>
             </a>
           </div>
           <div>
-            <a href="https://www.linkedin.com/in/onkar-deshmukh-6a89a8213/">
+            <a href="https://www.linkedin.com/in/onkar-deshmukh-6a89a8213/"  target="_blank">
               <img src={require(`../images/download (1).png`)} alt="" />
               <h4>@OnkarDeshmukh</h4>
             </a>
           </div>
           <div>
-            <a href="tel:+917498514749">
+            <a href="tel:+917498514749"  target="_blank">
               <img src={require(`../images/download (2).png`)} alt="" />
               <h4>+91 7498514749</h4>
             </a>
